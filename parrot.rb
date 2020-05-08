@@ -1,5 +1,5 @@
 
-def  parrot ( name = parrot, says = "Squawk")
-  puts " #{name} #{call} "
+def  parrot ( name = parrot, phrase = "Squawk")
+  puts " #{name} #{phrase} "
 parrot_name = "parrot"
 end
